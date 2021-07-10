@@ -66,8 +66,5 @@ Phong Kaster from Viet Nam.I am working as a website developer 💻 . I'm a newb
 
 </p>
 
-<<<<<<< HEAD
+
 ## 👁‍🗨 ![](https://komarev.com/ghpvc/?username=Phong-Kaster&color=238dd9&style=flat&label=VIEWS)
-=======
-## 👁‍🗨 ![](https://komarev.com/ghpvc/?username=Phong-Kaster&color=238dd9&style=flat&label=VIEWS)
->>>>>>> 5ed718edf361b93f30c84b37fa899d6aae95b1b7
