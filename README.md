@@ -12,13 +12,19 @@ Phong Kaster from Viet Nam.I am working as a website developer 💻 . I'm a newb
 
 - 👨‍🎓 I’m currently learning Software Technology
 
+- 👨‍🏫 My major field is building server-side
+
 - 👯 I’m looking to collaborate on OpenSource Projects
 
 - 👨‍💻 All of my projects are available at **[here](https://github.com/Phong-Kaster?tab=repositories)**
 
 - 📫 How to reach me **phongkaster@gmail.com**
 
-- ⚡ **[Zig & Sharko](https://www.youtube.com/channel/UCcKJJuOe2tOqgrKw0Gks-sw)** is my favorite cartoon
+- ⚡ **[Zig & Sharko](https://www.youtube.com/channel/UCcKJJuOe2tOqgrKw0Gks-sw)** is my favorite cartoon movie
+
+- 🦢 **[Swan Lake](https://www.youtube.com/watch?v=KTRnuoVp2HM)** is the classical symphony that I love
+
+- 💖 My favorite love song is **[Jar Of Hearts](https://www.youtube.com/watch?v=8v_4O44sfjM)**
 
 ## 🚀 Languages and Tools:
 
