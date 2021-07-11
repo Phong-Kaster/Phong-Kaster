@@ -30,9 +30,9 @@ Phong Kaster from Viet Nam.I am working as a website developer 💻 . I'm a newb
 
 <p align="left">
     <a href="https://devdocs.io/cpp/" name="c++" ><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
-    <a href="#" name="SQL-Server" ><img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/></a>
+    <a href="https://docs.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver15" name="SQL-Server" ><img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/></a>
     <a href="https://docs.oracle.com/en/java/" name="java" ><img src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png"/></a>
-    <a href="https://www.w3.org/html/" name="html"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/html/html_intro.asp" name="html"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" name="css"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" name="javascript"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
     <a href="https://code.visualstudio.com/" name="visual-studio-code"><img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/></a>
@@ -42,7 +42,7 @@ Phong Kaster from Viet Nam.I am working as a website developer 💻 . I'm a newb
     <a style="padding-right:8px;" href="https://en.wikipedia.org/wiki/NoSQL" name="noSQL"><img src="https://img.icons8.com/fluent/50/000000/server.png"/></a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://github.com/" name="github"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
-    <a href="#" name="windows-terminal"><img src="https://img.icons8.com/color/48/000000/powershell.png"/></a>
+    <a href="https://docs.microsoft.com/en-us/powershell/" name="windows-powershell"><img src="https://img.icons8.com/color/48/000000/powershell.png"/></a>
 
 </p>
 
