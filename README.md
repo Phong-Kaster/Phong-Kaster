@@ -68,7 +68,8 @@ Phong Kaster from Viet Nam.I am working as a website developer 💻 . I'm a newb
 <a href = "https://github.com/Phong-Kaster"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
 <a href = "https://www.facebook.com/PhongxKaster"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
 <a href = "https://www.instagram.com/phongkaster/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://phong-kaster.github.io/Portfolio/"><img src="https://img.icons8.com/fluent/50/000000/domain.png"/></a>
+<a href = "https://phong-kaster.github.io/Portfolio/"><img src="https://img.icons8.com/fluent/48/000000/resume-website.png"/></a>
+<a href = "mailto: phongkaster@gmail.com"><img src="https://img.icons8.com/color/48/000000/apple-mail.png"/></a>
 
 </p>
 
