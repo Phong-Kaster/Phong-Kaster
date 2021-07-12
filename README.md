@@ -5,7 +5,6 @@
 # Phong Kaster
 -  Holla <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm 
 Phong Kaster from Viet Nam.I am working as a website developer 💻 . I'm a newbie to the programming world🌎 . Nice to meet you 🤝.
-
 ## 🙋‍♂️ About Me
 
 - 🏡 I was born and grown up in **[the city of Red Phoenix-Flower](https://vi.wikipedia.org/wiki/H%E1%BA%A3i_Ph%C3%B2ng)**
