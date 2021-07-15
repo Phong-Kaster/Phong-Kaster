@@ -19,7 +19,7 @@ Phong Kaster from Viet Nam.I am working as a website developer 💻 . I'm a newb
 
 - 📫 How to reach me **phongkaster@gmail.com**
 
-- ⚡ **[Zig & Sharko](https://www.youtube.com/channel/UCcKJJuOe2tOqgrKw0Gks-sw)** is my favorite cartoon movie
+- 🦈 **[Zig & Sharko](https://www.youtube.com/channel/UCcKJJuOe2tOqgrKw0Gks-sw)** is my favorite cartoon movie
 
 - 🦢 **[Swan Lake](https://www.youtube.com/watch?v=KTRnuoVp2HM)** is the classical symphony that I love
 
@@ -62,7 +62,7 @@ Phong Kaster from Viet Nam.I am working as a website developer 💻 . I'm a newb
  
   [![Phong Kaster's github activity graph](https://activity-graph.herokuapp.com/graph?username=Phong-Kaster&theme=redical&custom_title=Shining%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 📱 Connect with me:
+## 🌎 Connect with me:
 <p align="left">
 
 <a href = "https://github.com/Phong-Kaster"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
