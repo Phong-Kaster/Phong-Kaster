@@ -28,6 +28,7 @@ Phong Kaster from Viet Nam.I am working as a website developer 💻 . I'm a newb
 ## 🚀 Languages and Tools:
 
 <p align="left">
+    <b>Note:</b> Languages and tools which are included below,are only these programming languages & tools I have been and are doing so that they doesn't reflect experience or skill level.</br>
     <a href="https://devdocs.io/cpp/" name="c++" ><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></a>
     <a href="https://docs.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver15" name="SQL-Server" ><img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/></a>
     <a href="https://docs.oracle.com/en/java/" name="java" ><img src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png"/></a>
@@ -42,7 +43,7 @@ Phong Kaster from Viet Nam.I am working as a website developer 💻 . I'm a newb
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://github.com/" name="github"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
     <a href="https://docs.microsoft.com/en-us/powershell/" name="windows-powershell"><img src="https://img.icons8.com/color/48/000000/powershell.png"/></a>
-
+    
 </p>
 
 ## 🏃‍♂️ Github Streak
@@ -59,7 +60,7 @@ Phong Kaster from Viet Nam.I am working as a website developer 💻 . I'm a newb
   
 ## 📊 Contribution Graph
  
-  [![Phong Kaster's github activity graph](https://activity-graph.herokuapp.com/graph?username=Phong-Kaster&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Phong Kaster's github activity graph](https://activity-graph.herokuapp.com/graph?username=Phong-Kaster&theme=redical&custom_title=Shining%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 📱 Connect with me:
 <p align="left">
