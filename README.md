@@ -3,9 +3,15 @@
 
 
 # Phong Kaster
--  Holla <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm 
-Phong Kaster from Viet Nam.I am working as a website developer 💻 . I'm a newbie to the programming world🌎 . Nice to meet you 🤝.
-## 🙋‍♂️ About Me
+-  Hi ! My name is
+Nguyen Thanh Phong. I'm from Viet Nam.I'm a newbie to the programming world & work as a website developer.
+
+- Nice to meet you 😚. Probably we are not even living in the same country. We look different. We speak different languages. Maybe we are from entirely different generations. We are just complete strangers.
+
+- But there is something that connects us. We both have great taste in getting programming
+
+- Thank you for being here. God bless you, whoever you are
+## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> About Me
 
 - 🏡 I was born and grown up in **[the city of Red Phoenix-Flower](https://vi.wikipedia.org/wiki/H%E1%BA%A3i_Ph%C3%B2ng)**
 
