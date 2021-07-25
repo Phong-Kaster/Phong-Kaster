@@ -67,7 +67,6 @@ Nguyen Thanh Phong. I'm from Viet Nam.I'm a newbie to the programming world & wo
 ## 📊 Contribution Graph
  
   [![Phong Kaster's github activity graph](https://activity-graph.herokuapp.com/graph?username=Phong-Kaster&theme=redical&custom_title=Shining%20Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ## 🌎 Connect with me:
 <p align="left">
 
@@ -79,5 +78,4 @@ Nguyen Thanh Phong. I'm from Viet Nam.I'm a newbie to the programming world & wo
 
 </p>
 
-
-## 👁‍🗨👁‍🗨 ![](https://komarev.com/ghpvc/?username=Phong-Kaster&color=238dd9&style=flat&label=VIEWS)
+## 👁‍🗨![](https://komarev.com/ghpvc/?username=Phong-Kaster&color=238dd9&style=flat&label=VIEWS)
