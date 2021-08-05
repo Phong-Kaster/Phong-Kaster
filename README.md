@@ -29,7 +29,7 @@ Nguyen Thanh Phong. I'm from Viet Nam.I'm a newbie to the programming world & wo
 
 - 🦢 **[Swan Lake](https://www.youtube.com/watch?v=KTRnuoVp2HM)** is the classical symphony that I love
 
-- 💖 My favorite love song is **[Jar Of Hearts](https://www.youtube.com/watch?v=8v_4O44sfjM)**
+- 💖 **[Jar Of Hearts](https://www.youtube.com/watch?v=8v_4O44sfjM)**, **[My Heart Will Go On](https://www.youtube.com/watch?v=IAuRoAUV19o)** are my favorite love songs
 
 ## 🚀 Languages and Tools:
 
