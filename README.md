@@ -75,7 +75,7 @@ Nguyen Thanh Phong. I'm from Viet Nam.I'm a newbie to the programming world & wo
 <a href = "https://www.instagram.com/phongkaster/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://phong-kaster.github.io/Portfolio/"><img src="https://img.icons8.com/fluent/48/000000/resume-website.png"/></a>
 <a href = "mailto: phongkaster@gmail.com"><img src="https://img.icons8.com/color/48/000000/apple-mail.png"/></a>
-
+<a href = "https://www.youtube.com/channel/UCFUhd4YHr6XNe39SkuO4Jug"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 </p>
 
 ## ![](https://komarev.com/ghpvc/?username=Phong-Kaster&color=238dd9&style=flat&label=VIEWS)
