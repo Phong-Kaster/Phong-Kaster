@@ -5,7 +5,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0 22 * * *"
     
 jobs:
   followers:
@@ -32,7 +32,7 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add .
-          git commit -m "Updated followers"
+          git commit -m "Update latest followers"
 
       - name: Pull changes
         run: git pull -r
