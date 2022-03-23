@@ -81,50 +81,7 @@ Nguyen Thanh Phong. I'm from Viet Nam.I'm a newbie to the programming world & wo
 ## 🪐 Lastest Followers
 
 <!-- FOLLOWER-LIST:START -->
-<table>
-  <tr>
 
-<td align="center">
-     <a href="https://github.com/akirahani">
-       <img src="https://avatars.githubusercontent.com/u/79439944?v=4" width="100px;" alt="akirahani"/>
-     </a>
-     <br />
-     <a href="https://github.com/akirahani">akirahani</a>
-  </td>
-		
-<td align="center">
-     <a href="https://github.com/trinhnhi1306">
-       <img src="https://avatars.githubusercontent.com/u/80469378?v=4" width="100px;" alt="trinhnhi1306"/>
-     </a>
-     <br />
-     <a href="https://github.com/trinhnhi1306">trinhnhi1306</a>
-  </td>
-		
-<td align="center">
-     <a href="https://github.com/TuanBui-archdemon">
-       <img src="https://avatars.githubusercontent.com/u/81811541?v=4" width="100px;" alt="TuanBui-archdemon"/>
-     </a>
-     <br />
-     <a href="https://github.com/TuanBui-archdemon">TuanBui-archdemon</a>
-  </td>
-		
-<td align="center">
-     <a href="https://github.com/hoangtien2k3">
-       <img src="https://avatars.githubusercontent.com/u/91842746?v=4" width="100px;" alt="hoangtien2k3"/>
-     </a>
-     <br />
-     <a href="https://github.com/hoangtien2k3">hoangtien2k3</a>
-  </td>
-		
-<td align="center">
-     <a href="https://github.com/huyhp1999">
-       <img src="https://avatars.githubusercontent.com/u/98534341?v=4" width="100px;" alt="huyhp1999"/>
-     </a>
-     <br />
-     <a href="https://github.com/huyhp1999">huyhp1999</a>
-  </td>
-		  </tr>
-</table>
 <!-- FOLLOWER-LIST:END -->
 
 ## ![](https://komarev.com/ghpvc/?username=Phong-Kaster&color=238dd9&style=flat&label=VIEWS)
