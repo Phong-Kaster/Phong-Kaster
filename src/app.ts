@@ -17,7 +17,6 @@ const doChanges = async () => {
 
   const cards = genFollowersHtml(followers)
 
-  // const newContent = "Hello world"
   const updatedFile = content.replace(matchBetween, cards)
 
   fs.writeFileSync("README.md", updatedFile)

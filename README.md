@@ -78,7 +78,7 @@ Nguyen Thanh Phong. I'm from Viet Nam.I'm a newbie to the programming world & wo
 <a href = "https://www.youtube.com/channel/UCFUhd4YHr6XNe39SkuO4Jug"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 </p>
 
-## 🪐 Lastest Follewers
+## 🪐 Lastest Followers
 
 <!-- FOLLOWER-LIST:START -->
 
