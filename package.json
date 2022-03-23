@@ -1,0 +1,25 @@
+{
+  "name": "dawson-codes",
+  "version": "1.0.0",
+  "description": "- 👋 Hi, I'm Phong",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Phong-Kaster/Phong-Kaster.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Phong-Kaster/Phong-Kaster/issues"
+  },
+  "homepage": "https://github.com/Phong-Kaster/Phong-Kaster#readme",
+  "dependencies": {
+    "@types/node": "^17.0.21",
+    "axios": "^0.26.1",
+    "dotenv": "^16.0.0"
+  }
+}
