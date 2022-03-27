@@ -85,6 +85,14 @@ Nguyen Thanh Phong. I'm from Viet Nam.I'm a newbie to the programming world & wo
   <tr>
 
 <td align="center">
+     <a href="https://github.com/ngdanghau">
+       <img src="https://avatars.githubusercontent.com/u/33993567?v=4" width="100px;" alt="ngdanghau"/>
+     </a>
+     <br />
+     <a href="https://github.com/ngdanghau">ngdanghau</a>
+  </td>
+		
+<td align="center">
      <a href="https://github.com/akirahani">
        <img src="https://avatars.githubusercontent.com/u/79439944?v=4" width="100px;" alt="akirahani"/>
      </a>
