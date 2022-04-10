@@ -93,6 +93,14 @@ Nguyen Thanh Phong. I'm from Viet Nam.I'm a newbie to the programming world & wo
   </td>
 		
 <td align="center">
+     <a href="https://github.com/hh-Nghiep">
+       <img src="https://avatars.githubusercontent.com/u/71450931?v=4" width="100px;" alt="hh-Nghiep"/>
+     </a>
+     <br />
+     <a href="https://github.com/hh-Nghiep">hh-Nghiep</a>
+  </td>
+		
+<td align="center">
      <a href="https://github.com/akirahani">
        <img src="https://avatars.githubusercontent.com/u/79439944?v=4" width="100px;" alt="akirahani"/>
      </a>
@@ -117,13 +125,23 @@ Nguyen Thanh Phong. I'm from Viet Nam.I'm a newbie to the programming world & wo
   </td>
 		
 <td align="center">
+     <a href="https://github.com/vokimson">
+       <img src="https://avatars.githubusercontent.com/u/84184229?v=4" width="100px;" alt="vokimson"/>
+     </a>
+     <br />
+     <a href="https://github.com/vokimson">vokimson</a>
+  </td>
+		
+<td align="center">
      <a href="https://github.com/hoangtien2k3">
        <img src="https://avatars.githubusercontent.com/u/91842746?v=4" width="100px;" alt="hoangtien2k3"/>
      </a>
      <br />
      <a href="https://github.com/hoangtien2k3">hoangtien2k3</a>
   </td>
-		
+		  </tr>
+  <tr>
+
 <td align="center">
      <a href="https://github.com/huyhp1999">
        <img src="https://avatars.githubusercontent.com/u/98534341?v=4" width="100px;" alt="huyhp1999"/>
