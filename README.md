@@ -85,14 +85,6 @@ Nguyen Thanh Phong. I'm from Viet Nam.I'm a newbie to the programming world & wo
   <tr>
 
 <td align="center">
-     <a href="https://github.com/ngdanghau">
-       <img src="https://avatars.githubusercontent.com/u/33993567?v=4" width="100px;" alt="ngdanghau"/>
-     </a>
-     <br />
-     <a href="https://github.com/ngdanghau">ngdanghau</a>
-  </td>
-		
-<td align="center">
      <a href="https://github.com/hh-Nghiep">
        <img src="https://avatars.githubusercontent.com/u/71450931?v=4" width="100px;" alt="hh-Nghiep"/>
      </a>
@@ -139,15 +131,23 @@ Nguyen Thanh Phong. I'm from Viet Nam.I'm a newbie to the programming world & wo
      <br />
      <a href="https://github.com/hoangtien2k3">hoangtien2k3</a>
   </td>
-		  </tr>
-  <tr>
-
+		
 <td align="center">
      <a href="https://github.com/huyhp1999">
        <img src="https://avatars.githubusercontent.com/u/98534341?v=4" width="100px;" alt="huyhp1999"/>
      </a>
      <br />
      <a href="https://github.com/huyhp1999">huyhp1999</a>
+  </td>
+		  </tr>
+  <tr>
+
+<td align="center">
+     <a href="https://github.com/truongquangkhai99">
+       <img src="https://avatars.githubusercontent.com/u/102689302?v=4" width="100px;" alt="truongquangkhai99"/>
+     </a>
+     <br />
+     <a href="https://github.com/truongquangkhai99">truongquangkhai99</a>
   </td>
 		  </tr>
 </table>
