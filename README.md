@@ -4,7 +4,7 @@
 
 # Phong Kaster
 -  Hi ! My name is
-Nguyen Thanh Phong. I'm from Viet Nam.I'm a newbie to the programming world & work as a website developer.
+Nguyen Thanh Phong. I'm from Viet Nam. I'm a newbie to the programming world & working as a newbie developer.
 
 - Nice to meet you 😚. Probably we are not even living in the same country. We look different. We speak different languages. Maybe we are from entirely different generations. We are just complete strangers.
 
