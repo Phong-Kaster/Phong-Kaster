@@ -85,11 +85,27 @@ Nguyen Thanh Phong. I'm from Viet Nam. I'm a newbie to the programming world & w
   <tr>
 
 <td align="center">
+     <a href="https://github.com/danglequocbao001">
+       <img src="https://avatars.githubusercontent.com/u/56766274?v=4" width="100px;" alt="danglequocbao001"/>
+     </a>
+     <br />
+     <a href="https://github.com/danglequocbao001">danglequocbao001</a>
+  </td>
+		
+<td align="center">
      <a href="https://github.com/LamNhu1102">
        <img src="https://avatars.githubusercontent.com/u/58131185?v=4" width="100px;" alt="LamNhu1102"/>
      </a>
      <br />
      <a href="https://github.com/LamNhu1102">LamNhu1102</a>
+  </td>
+		
+<td align="center">
+     <a href="https://github.com/EricNguyen1206">
+       <img src="https://avatars.githubusercontent.com/u/63888253?v=4" width="100px;" alt="EricNguyen1206"/>
+     </a>
+     <br />
+     <a href="https://github.com/EricNguyen1206">EricNguyen1206</a>
   </td>
 		
 <td align="center">
@@ -123,7 +139,9 @@ Nguyen Thanh Phong. I'm from Viet Nam. I'm a newbie to the programming world & w
      <br />
      <a href="https://github.com/TuanBui-archdemon">TuanBui-archdemon</a>
   </td>
-		
+		  </tr>
+  <tr>
+
 <td align="center">
      <a href="https://github.com/vokimson">
        <img src="https://avatars.githubusercontent.com/u/84184229?v=4" width="100px;" alt="vokimson"/>
@@ -139,9 +157,7 @@ Nguyen Thanh Phong. I'm from Viet Nam. I'm a newbie to the programming world & w
      <br />
      <a href="https://github.com/TruongDayx2">TruongDayx2</a>
   </td>
-		  </tr>
-  <tr>
-
+		
 <td align="center">
      <a href="https://github.com/hoangtien2k3">
        <img src="https://avatars.githubusercontent.com/u/91842746?v=4" width="100px;" alt="hoangtien2k3"/>
